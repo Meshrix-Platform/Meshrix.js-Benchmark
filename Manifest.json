@@ -1,0 +1,11 @@
+{
+  "plans": [
+    {
+      "code": "PLAN-001",
+      "directory": "delivery",
+      "plan": "delivery/Plan.json",
+      "title": "Meshrix.js Traceability and Recovery Cost Benchmark"
+    }
+  ],
+  "schema": "better-plan.manifest/v3"
+}
