@@ -1,1 +1,4 @@
 .better-plan.lock
+
+# Private local audit reports
+/.general-auditor/local/
